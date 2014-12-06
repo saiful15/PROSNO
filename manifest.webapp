@@ -1,0 +1,20 @@
+{
+  "name": "PROSNO",
+  "description": "Public & Recurrent examination Obsession Solution for Novice Onboard",
+  "version": "1.0",
+  "icons": {
+    "512": "/images/icon-512.png",
+    "256": "/images/icon-256.png",
+    "128": "/images/icon-128.png",
+    "64": "/images/icon-64.png",
+    "32": "/images/icon-32.png"
+  },
+  "developer": {
+    "name": "Shazedur Rahim Joardar",
+    "url": "https://mozillians.org/en-US/u/ring"
+  },
+  "launch_path": "/index.html",
+  "chrome": { "navigation": true },
+  "orientation": [ "portrait" ],
+  "default_locale": "en"
+} 
