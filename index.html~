@@ -75,7 +75,7 @@
                                 <span>Review Questions</span>
                                
                             </a>
-                            <a class="quick-btn" href="#">
+                            <a class="quick-btn" href="poll_questions.html">
                                 <i class="icon-archive icon-3x"></i>
                                 <span>Poll Questions</span>
                                 
@@ -88,7 +88,7 @@
                             
                               <a class="quick-btn" href="#">
                                 <i class=" icon-file-text icon-3x"></i>
-                                <span>Selected Polls</span>
+                                <span>Question Paper</span>
                                 
                             </a>
                             <a class="quick-btn" href="#">
